@@ -30,3 +30,12 @@ Cars with drive wheels of type RWD generally cost more.
 
 Conclusion
 This analysis provides insights into which factors most significantly impact car prices. These findings can help potential car buyers and sellers make informed decisions based on the key drivers of car value. The visualizations also highlight trends and relationships that may not be obvious from summary statistics alone.
+### The linear relationship between Price and engine-size
+![image](https://github.com/user-attachments/assets/6df4dbb6-b18c-4152-b14a-c8f3de533262)
+### The linear relationship between Price and drive-wheels type
+![image](https://github.com/user-attachments/assets/f1527854-12e0-42a6-b95a-f2027b67d9e4)
+## Heatmap showing how drive-wheels and body-style of a car can affect its price
+![image](https://github.com/user-attachments/assets/e8a4072b-2d90-4a1c-95ea-7d0d882111a7)
+
+
+
